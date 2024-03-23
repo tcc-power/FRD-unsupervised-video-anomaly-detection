@@ -1,5 +1,6 @@
 # FRD-unsupervised-video-anomaly-detection
 ##Official codes for FRD-UVAD(10 crop version)
+
 1crop inferencing codes and ckpts on Shanghaitech, CUHK Avenue and UCF-Crime seeing:[link](https://github.com/tcc-power/FRD-unsupervised-video-anomaly-detection-1crop)
 
 **1.Download ucf-crime test features from C2FPL:[Concat_test_10.npy](https://mbzuaiac-my.sharepoint.com/personal/anas_al-lahham_mbzuai_ac_ae/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fanas%5Fal%2Dlahham%5Fmbzuai%5Fac%5Fae%2FDocuments%2FApplications%2FPaper%20Submissions%2FCVPR%202024%2Fconcatenated%5Ffeatures&ga=1)**
