@@ -3,7 +3,7 @@
 
 **1.Download ucf-crime test features from C2FPL:[Concat_test_10.npy](https://mbzuaiac-my.sharepoint.com/personal/anas_al-lahham_mbzuai_ac_ae/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fanas%5Fal%2Dlahham%5Fmbzuai%5Fac%5Fae%2FDocuments%2FApplications%2FPaper%20Submissions%2FCVPR%202024%2Fconcatenated%5Ffeatures&ga=1)**
 
-**2. Install conda envioment: **_environment.yaml_
+**2. Install conda envioment:**_environment.yaml_
 
 **3. To inference FRD-UVAD without auxiliary scorer,whose AUC is 77.56\%:**
 
