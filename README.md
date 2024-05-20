@@ -1,4 +1,5 @@
-# FRD-unsupervised-video-anomaly-detection
+# Feature reconstruction with disruption for unsupervised video anomaly detection
+# accepted by TMM 2024
 ##Official codes for FRD-UVAD(10 crop version)
 
 1crop inferencing codes and ckpts on Shanghaitech, CUHK Avenue and UCF-Crime seeing:[link](https://github.com/tcc-power/FRD-unsupervised-video-anomaly-detection-1crop)
