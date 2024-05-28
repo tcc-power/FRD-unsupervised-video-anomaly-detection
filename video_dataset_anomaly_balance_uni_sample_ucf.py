@@ -1,6 +1,8 @@
 import numpy as np
 import torch.utils.data as data
 from torch.utils.data import Dataset, DataLoader
+import utils
+import options
 import os
 import pickle
 import random
@@ -209,7 +211,7 @@ def Concat_list_all_crop_feedback(Test=False, create='False'): #UCF
 
     current_time = now.strftime("%Y-%m-%d_%H:%M:%S")
     if Test is True:
-        con_test = np.load("Concat_test_10.npy")
+        con_test = np.load("dataset/ucfcrime/Concat_test_10.npy")
         # con_test = np.load("/l/users/anas.al-lahham/concat_test_XD_5crop.npy")
         print('Testset size:', con_test.shape)
         # con_test
