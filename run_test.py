@@ -1,5 +1,5 @@
 import pickle
-from models import model
+from models_test import model
 from video_dataset_anomaly_balance_uni_sample_ucf import Dataset_Con_all_feedback_XD,train_loader
 from torch.utils.data import DataLoader
 import argparse
